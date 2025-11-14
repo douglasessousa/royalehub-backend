@@ -1,24 +1,25 @@
+
 [
     {
         "nome": "Cavaleiro",
         "id": 0,
         "elixir": 3,
         "raridade": "comum",
-        "imagemUrl": ""
+        "imagemUrl": "https://i.postimg.cc/qMMFy90B/Card_Knight.png"
     },
     {
         "nome": "Arqueiras",
         "id": 1,
         "elixir": 3,
         "raridade": "comum",
-        "imagemUrl": ""
+        "imagemUrl": "https://i.postimg.cc/nVY8v4D5/Archer_card_frame_alpha.png"
     },
     {
         "nome": "Goblins",
         "id": 2,
         "elixir": 2,
         "raridade": "comum",
-        "imagemUrl": ""
+        "imagemUrl": "https://i.postimg.cc/g2jfF1Bq/Card_Goblin.png"
     },
     {
         "nome": "Gigante",
@@ -36,7 +37,7 @@
     },
     {
         "nome": "Servos",
-        "id": 26000005,
+        "id": 5,
         "maxLevel": 14,
         "elixir": 3,
         "raridade": "comum",
@@ -51,7 +52,7 @@
     },
     {
         "nome": "Bruxa",
-        "id": 7,
+        "id": 66,
         "elixir": 5,
         "raridade": "épica",
         "imagemUrl": ""
@@ -138,7 +139,7 @@
         "id": 19,
         "elixir": 2,
         "raridade": "comum",
-        "imagemUrl": ""
+        "imagemUrl": "https://i.postimg.cc/bNCBT3Nt/Card_Spear_Goblins.png"
     },
     {
         "nome": "Esqueleto Gigante",
@@ -574,7 +575,7 @@
         "id": 82,
         "elixir": 5,
         "raridade": "campeão",
-        "imagemUrl": ""
+        "imagemUrl": "https://i.postimg.cc/bYRMGq7T/Card_Goblinstein_Frame.png"
     },
     {
         "nome": "Gigante das Runas",
@@ -686,7 +687,7 @@
         "id": 98,
         "elixir": 4,
         "raridade": "épica",
-        "imagemUrl": ""
+        "imagemUrl": "https://i.postimg.cc/Vv4H2Fqh/Card_Goblin_Drill.png"
     },
     {
         "nome": "Bola de Fogo",
