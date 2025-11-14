@@ -1,0 +1,22 @@
+[
+    {
+      "nome": "Torre da Princesa",
+      "id": 301,
+      "raridade": "comum"
+    },
+    {
+      "nome": "Canhoneiro",
+      "id": 302,
+      "raridade": "épica"
+    },
+    {
+      "nome": "Duquesa das Adaga",
+      "id": 303,
+      "raridade": "lendária"
+    },
+    {
+      "nome": "Cozinheiro Real",
+      "id": 304,
+      "raridade": "lendária"
+    }
+]

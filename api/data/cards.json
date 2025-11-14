@@ -1,0 +1,866 @@
+[
+    {
+        "nome": "Cavaleiro",
+        "id": 0,
+        "elixir": 3,
+        "raridade": "comum",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Arqueiras",
+        "id": 1,
+        "elixir": 3,
+        "raridade": "comum",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Goblins",
+        "id": 2,
+        "elixir": 2,
+        "raridade": "comum",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Gigante",
+        "id": 3,
+        "elixir": 5,
+        "raridade": "rara",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "P.E.K.K.A",
+        "id": 4,
+        "elixir": 7,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Servos",
+        "id": 26000005,
+        "maxLevel": 14,
+        "elixir": 3,
+        "raridade": "comum",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Balão",
+        "id": 6,
+        "elixir": 5,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Bruxa",
+        "id": 7,
+        "elixir": 5,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Bárbaros",
+        "id": 8,
+        "elixir": 5,
+        "raridade": "comum",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Golem",
+        "id": 9,
+        "elixir": 8,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Esqueletos",
+        "id": 10,
+        "elixir": 1,
+        "raridade": "comum",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Valquíria",
+        "id": 11,
+        "elixir": 4,
+        "raridade": "rara",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Exército de Esqueletos",
+        "id": 12,
+        "elixir": 3,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Bombardeiro",
+        "id": 13,
+        "elixir": 2,
+        "raridade": "comum",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Mosqueteira",
+        "id": 14,
+        "elixir": 4,
+        "raridade": "rara",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Bebê Dragão",
+        "id": 15,
+        "elixir": 4,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Príncipe",
+        "id": 16,
+        "elixir": 5,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Mago",
+        "id": 17,
+        "elixir": 5,
+        "raridade": "rara",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Mini P.E.K.K.A",
+        "id": 18,
+        "elixir": 4,
+        "raridade": "rara",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Goblins Lanceiros",
+        "id": 19,
+        "elixir": 2,
+        "raridade": "comum",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Esqueleto Gigante",
+        "id": 20,
+        "elixir": 6,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Corredor",
+        "id": 21,
+        "elixir": 4,
+        "raridade": "rara",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Horda de Servos",
+        "id": 22,
+        "elixir": 5,
+        "raridade": "comum",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Mago de Gelo",
+        "id": 23,
+        "elixir": 3,
+        "raridade": "lendária",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Gigante Real",
+        "id": 24,
+        "elixir": 6,
+        "raridade": "comum",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Guardas",
+        "id": 25,
+        "elixir": 3,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Princesa",
+        "id": 26,
+        "elixir": 3,
+        "raridade": "lendária",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Príncipe das Trevas",
+        "id": 27,
+        "elixir": 4,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Três Mosqueteiras",
+        "id": 28,
+        "elixir": 9,
+        "raridade": "rara",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Lava Hound",
+        "id": 29,
+        "elixir": 7,
+        "raridade": "lendária",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Espírito de Gelo",
+        "id": 30,
+        "elixir": 1,
+        "raridade": "comum",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Espírito de Fogo",
+        "id": 31,
+        "elixir": 1,
+        "raridade": "comum",
+        "imagemUrl": "" 
+    },
+    {
+        "nome": "Miner",
+        "id": 32,
+        "elixir": 3,
+        "raridade": "lendária",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Sparky",
+        "id": 33,
+        "elixir": 6,
+        "raridade": "lendária",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Lançador",
+        "id": 34,
+        "elixir": 5,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Lenhador",
+        "id": 35,
+        "elixir": 4,
+        "raridade": "lendária",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Aríete de Batalha",
+        "id": 36,
+        "elixir": 4,
+        "raridade": "rara",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Dragão Infernal",
+        "id": 37,
+        "elixir": 4,
+        "raridade": "lendária",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Golem de Gelo",
+        "id": 38,
+        "elixir": 2,
+        "raridade": "rara",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Megasservo",
+        "id": 39,
+        "elixir": 3,
+        "raridade": "rara",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Goblin com Dardos",
+        "id": 40,
+        "elixir": 3,
+        "raridade": "rara",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Guangue de Goblins",
+        "id": 41,
+        "elixir": 3,
+        "raridade": "comum",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Mago Elétrico",
+        "id": 42,
+        "elixir": 4,
+        "raridade": "lendária",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Bárbaros de Elite",
+        "id": 43,
+        "elixir": 6,
+        "raridade": "comum",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Caçador",
+        "id": 44,
+        "elixir": 4,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Executor",
+        "id": 45,
+        "elixir": 5,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Bandida",
+        "id": 46,
+        "elixir": 3,
+        "raridade": "lendária",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Recrutas Reais",
+        "id": 47,
+        "elixir": 7,
+        "raridade": "comum",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Bruxa Sombria",
+        "id": 48,
+        "elixir": 4,
+        "raridade": "lendária",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Morcegos",
+        "id": 49,
+        "elixir": 2,
+        "raridade": "comum",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Fantasma Real",
+        "id": 50,
+        "elixir": 3,
+        "raridade": "lendária",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Domadora de Carneiro",
+        "id": 51,
+        "elixir": 5,
+        "raridade": "lendária",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Eletrocutadores",
+        "id": 52,
+        "elixir": 4,
+        "raridade": "rara",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Patifes",
+        "id": 53,
+        "elixir": 5,
+        "raridade": "comum",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Carrinho de Canhão",
+        "id": 54,
+        "elixir": 5,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Mega Cavaleiro",
+        "id": 55,
+        "elixir": 7,
+        "raridade": "lendária",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Barril de Esqueletos",
+        "id": 56,
+        "elixir": 3,
+        "raridade": "comum",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Máquina Voadora",
+        "id": 57,
+        "elixir": 4,
+        "raridade": "rara",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Destruidores de muros",
+        "id": 58,
+        "maxEvolutionLevel": 1,
+        "elixir": 2,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Porcos Reais",
+        "id": 59,
+        "maxEvolutionLevel": 1,
+        "elixir": 5,
+        "raridade": "rara",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Goblin Gigante",
+        "id": 60,
+        "elixir": 6,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Pescador",
+        "id": 61,
+        "elixir": 3,
+        "raridade": "lendária",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Arqueiro Mágico",
+        "id": 62,
+        "elixir": 4,
+        "raridade": "lendária",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Dragão Elétrico",
+        "id": 63,
+        "elixir": 5,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Pirotécnica",
+        "id": 64,
+        "elixir": 3,
+        "raridade": "comum",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Mineiro Bombado",
+        "id": 65,
+        "elixir": 4,
+        "raridade": "campeão",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Golem de Elixir",
+        "id": 67,
+        "elixir": 3,
+        "raridade": "rara",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Curadora Guerreira",
+        "id": 68,
+        "elixir": 4,
+        "raridade": "rara",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Rei Esqueleto",
+        "id": 69,
+        "elixir": 4,
+        "raridade": "campeão",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Rainha Arqueira",
+        "id": 70,
+        "elixir": 5,
+        "raridade": "campeão",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Cavaleiro Dourado",
+        "id": 71,
+        "elixir": 4,
+        "raridade": "campeão",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Monge",
+        "id": 72,
+        "elixir": 5,
+        "raridade": "campeão",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Dragões Esqueleto",
+        "id": 73,
+        "elixir": 4,
+        "raridade": "comum",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Bruxa Mãe",
+        "id": 74,
+        "elixir": 4,
+        "raridade": "lendária",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Espírito Elétrico",
+        "id": 75,
+        "elixir": 1,
+        "raridade": "comum",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Gigante Elétrico",
+        "id": 76,
+        "elixir": 7,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Fênix",
+        "id": 77,
+        "elixir": 4,
+        "raridade": "lendária",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Pequeno Príncipe",
+        "id": 78,
+        "elixir": 3,
+        "raridade": "campeão",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Goblin Demlolidor",
+        "id": 79,
+        "elixir": 4,
+        "raridade": "rara",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Máquina Goblin",
+        "id": 80,
+        "elixir": 5,
+        "raridade": "lendária",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Arbusto Traiçoeiro",
+        "id": 81,
+        "elixir": 2,
+        "raridade": "rara",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Goblinstein",
+        "id": 82,
+        "elixir": 5,
+        "raridade": "campeão",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Gigante das Runas",
+        "id": 83,
+        "elixir": 4,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Berserker",
+        "id": 84,
+        "elixir": 2,
+        "raridade": "comum",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Bandida Líder",
+        "id": 85,
+        "elixir": 6,
+        "raridade": "campeão",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Canhão",
+        "id": 86,
+        "elixir": 3,
+        "raridade": "comum",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Cabana de Goblins",
+        "id": 87,
+        "elixir": 4,
+        "raridade": "rara",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Morteiro",
+        "id": 88,
+        "elixir": 4,
+        "raridade": "comum",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Torre Inferno",
+        "id": 89,
+        "elixir": 5,
+        "raridade": "rara",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Torre de Bombas",
+        "id": 90,
+        "elixir": 4,
+        "raridade": "rara",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Cabana de Bárbaros",
+        "id": 91,
+        "elixir": 6,
+        "raridade": "rara",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Tesla",
+        "id": 92,
+        "elixir": 4,
+        "raridade": "comum",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Coletor de Elixir",
+        "id": 93,
+        "elixir": 6,
+        "raridade": "rara",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "X-Besta",
+        "id": 94,
+        "elixir": 6,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Lápide",
+        "id": 95,
+        "elixir": 3,
+        "raridade": "rara",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Fornalha",
+        "id": 96,
+        "elixir": 4,
+        "raridade": "rara",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Jaula de Goblin",
+        "id": 97,
+        "elixir": 4,
+        "raridade": "rara",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Escavadeira de Goblins",
+        "id": 98,
+        "elixir": 4,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Bola de Fogo",
+        "id": 99,
+        "elixir": 4,
+        "raridade": "rara",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Flechas",
+        "id": 100,
+        "elixir": 3,
+        "raridade": "comum",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Fúria",
+        "id": 101,
+        "elixir": 2,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Foguete",
+        "id": 102,
+        "elixir": 6,
+        "raridade": "rara",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Barril de Goblins",    
+        "id": 103,
+        "elixir": 3,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Gelo",
+        "id": 104,
+        "elixir": 4,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Espelho",
+        "id": 105,
+        "elixir": 1,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Espelho",
+        "id": 105,
+        "elixir": 1,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Relâmpago",
+        "id": 106,
+        "elixir": 6,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Zap",
+        "id": 107,
+        "elixir": 2,
+        "raridade": "comum",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Veneno",
+        "id": 108,
+        "elixir": 4,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Cemitério",
+        "id": 109,
+        "elixir": 5,
+        "raridade": "lendária",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "O Tronco",
+        "id": 110,
+        "elixir": 2,
+        "raridade": "lendária",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "O Tronco",
+        "id": 110,
+        "elixir": 2,
+        "raridade": "lendária",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Tornado",
+        "id": 111,
+        "elixir": 3,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Clone",
+        "id": 112,
+        "elixir": 3,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Terremoto",
+        "id": 113,
+        "elixir": 3,
+        "raridade": "rara",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Barril de Bárbaro",
+        "id": 114,
+        "elixir": 2,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Espírito Curador",
+        "id": 115,
+        "elixir": 1,
+        "raridade": "rara",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Bola de Neve",
+        "id": 116,
+        "elixir": 2,
+        "raridade": "comum",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Encomenda Real",
+        "id": 117,
+        "elixir": 3,
+        "raridade": "comum",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Void",
+        "id": 118,
+        "elixir": 3,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Maldição Goblin",
+        "id": 119,
+        "elixir": 2,
+        "raridade": "épica",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Imperatriz Espiritual",
+        "id": 120,
+        "elixir": 6,
+        "raridade": "lendária",
+        "imagemUrl": ""
+    },
+    {
+        "nome": "Vines",
+        "id": 121,
+        "elixir": 3,
+        "raridade": "épica",
+        "imagemUrl": ""
+    }
+]
